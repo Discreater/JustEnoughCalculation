@@ -1,5 +1,7 @@
 [![][1]][3] [![][2]][3] [![][4]][5]
 
+**已迁移至原仓库 https://github.com/Towdium/JustEnoughCalculation/tree/1.7.10**
+
 # Just Enough Calculation Mod
 
 Hey, this is a small add-on to **NEI** (Not Enough Items), in

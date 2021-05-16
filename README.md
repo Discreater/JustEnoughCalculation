@@ -2,6 +2,10 @@
 
 [中文](README_CN.md)
 
+**Moved to original repo https://github.com/Towdium/JustEnoughCalculation/tree/1.7.10**. This repo is only for download.
+
+**已迁移至原仓库 https://github.com/Towdium/JustEnoughCalculation/tree/1.7.10** 。该仓库仅用于下载。
+
 # Just Enough Calculation Mod
 
 Hey, this is a small add-on to **NEI** (Not Enough Items), in
