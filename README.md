@@ -2,9 +2,9 @@
 
 [中文](README_CN.md)
 
-**Moved to original repo https://github.com/Towdium/JustEnoughCalculation/tree/1.7.10**. This repo is only for download.
+**Moved to original repo https://github.com/Towdium/JustEnoughCalculation/tree/1.7.10**.
 
-**已迁移至原仓库 https://github.com/Towdium/JustEnoughCalculation/tree/1.7.10** 。该仓库仅用于下载。
+**已迁移至原仓库 https://github.com/Towdium/JustEnoughCalculation/tree/1.7.10** 。
 
 # Just Enough Calculation Mod
 
